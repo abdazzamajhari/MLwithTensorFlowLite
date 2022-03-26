@@ -1,3 +1,4 @@
 # MLwithTensorFlowLite
 
-Android apps using Machine Learning Teachable Machine TensorFlowLite
+Android apps using TensorFlowLite<br>
+Simple Classification Handphone and Laptop
